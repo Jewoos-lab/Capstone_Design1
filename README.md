@@ -4,15 +4,6 @@
 </div>
 <h3>💭 분석툴 : Google Colab, Pandas, Numpy, Matplotlib, QGIS, Sklearn, scipy<br><br>
     📅 진행기간 : 2023.03.23 ~ 2023.06.07</h3>
-
-### 👨‍👦‍👦 팀원소개
-<table>
-<tbody>
-  <tr>
-    <td align="left"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
-   <tr/>
-</tbody>
-</table>
 <br>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/dae87d57-6d24-4e34-bb11-12b8feb13a61" height = 600px></h3>
 
