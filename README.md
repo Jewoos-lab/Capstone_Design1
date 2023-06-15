@@ -3,7 +3,7 @@
   🚢 해양정보를 활용한 해양오염 예측</h1>
 </div>
 <h3>💭 분석툴 : Google Colab, QGIS<br><br>
-    💭 분석툴 : Pandas, Numpy, Matplotlib, Sklearn, scipy<br><br>
+    💭 분석도구 : Pandas, Numpy, Matplotlib, Sklearn, scipy<br><br>
     📅 진행기간 : 2023.04.10 ~ 2023.06.01</h3>
 <br>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/dae87d57-6d24-4e34-bb11-12b8feb13a61" height = 600px></h3>
