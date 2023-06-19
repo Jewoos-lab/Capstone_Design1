@@ -6,7 +6,7 @@
     💭 분석도구 : Pandas, Numpy, Matplotlib, Sklearn, scipy<br><br>
     📅 진행기간 : 2023.04.10 ~ 2023.06.01</h3>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/dae87d57-6d24-4e34-bb11-12b8feb13a61" height = 450px></h3>
+<h3 align="center"><img src="[https://github.com/LHG-Git/project/assets/100845169/dae87d57-6d24-4e34-bb11-12b8feb13a61](https://github.com/LHG-Git/project/assets/100845169/8855bb22-daeb-43ad-a724-b53b02d265c3)" height = 450px></h3>
 
 
 # 🔊 프로젝트 개요
