@@ -1,10 +1,11 @@
 <div align="center">
   <h1>📝 캡스톤디자인1 개인프로젝트<br><br>
   🚢 해양정보를 활용한 해양오염 예측</h1>
-</div>
-<h3>💭 분석툴 : Google Colab, QGIS<br><br>
-    💭 분석도구 : Pandas, Numpy, Matplotlib, Sklearn, scipy<br><br>
-    📅 진행기간 : 2023.04.10 ~ 2023.06.01</h3>
+</div><br>
+<h4> 💭 Language : Python <br><br>
+     📝 Library : Pandas, Numpy, Matplotlib, QGIS, Scikit-learn, scipy <br><br>
+     🛠  Tool : Google Colab <br><br>
+     📅 진행기간 : 2023.03.23 ~ 2023.06.07</h4><br>
 <br>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/8855bb22-daeb-43ad-a724-b53b02d265c3" height = 450px></h3>
 
